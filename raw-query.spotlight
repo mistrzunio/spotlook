@@ -1,0 +1,20 @@
+kMDItemTitle == "Accepted:*" ||
+kMDItemTitle == "Canceled:*" ||
+kMDItemTitle == "*OOO" || 
+kMDItemTitle == "OOO*" || 
+kMDItemTitle == "*OoO" || 
+kMDItemTitle == "*WFH" ||
+kMDItemTitle == "WFH*" ||
+kMDItemTitle == "Missed conversation with*" ||
+kMDItemTitle == "[Slack] Notifications*" || 
+kMDItemTitle == "*updates for the week of*" || 
+kMDItemTitle == "*Newsletter" || 
+kMDItemTitle == "Action Required*" || 
+kMDItemTitle == "ACTION REQUIRED*" || 
+kMDItemTitle == "NO ACTION REQUIRED*" || 
+kMDItemTitle == "*Submitted" || 
+kMDItemTitle  == "*has accepted the invitation*folder on Box" || 
+kMDItemAuthors  == "Box Updates*" || 
+kMDItemAuthors  == "Communications Team*" || 
+kMDItemAuthors  == "HR update*" || 
+kMDItemAuthors  == "*on Yammer*"
