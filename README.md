@@ -2,7 +2,7 @@
 Spotlight Metadata Query to be used with Outlook for Mac to filter robot, automated e-mails, whatever custom Query you wish to add
 
 ## How to use it
-**works with Outlook for Mac, tested with v16 on Sierra**
+Works with Outlook for Mac, tested with v16 on Sierra
 
 #### 1. In the upper-right corner of the Outlook window, click in the search box.
 
@@ -44,3 +44,9 @@ kMDItemAuthors  == "*on Yammer*"
 Just clik small **+** icon, then select criteria, conditions, etc i.e.: *Follow Up Flag > Not Flagged*
 
 #### 5. Click *Save Search* to create Smart folder
+
+
+### References:
+Spotlight Metadata Attributes <https://developer.apple.com/library/archive/documentation/CoreServices/Reference/MetadataAttributesRef/Reference/CommonAttrs.html#//apple_ref/doc/uid/TP40001694-SW1>
+
+File Metadata Query Expression Syntax <https://developer.apple.com/library/archive/documentation/Carbon/Conceptual/SpotlightQuery/Concepts/QueryFormat.html>
